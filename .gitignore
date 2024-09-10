@@ -1,0 +1,7 @@
+__pycache__/
+MNIST/
+*.py[cod]
+
+*.pth
+*.pt
+*.pkl
